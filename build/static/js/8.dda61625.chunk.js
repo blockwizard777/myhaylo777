@@ -1,0 +1,2 @@
+(this.webpackJsonpbako=this.webpackJsonpbako||[]).push([[8],{132:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/creative-bulb.aaa1dcb4.md"}}]);
+//# sourceMappingURL=8.dda61625.chunk.js.map
